@@ -1,0 +1,7 @@
+What were the key changes in this new file?
+
+The robot was not moving before despite it working during training:
+- we figured out the problem was some of the additional heuristics we added so we removed them in the code
+
+New neural network:
+- the old one had the robots moving, but the strategy wasn't matching (outdated strategy)
