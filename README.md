@@ -1,4 +1,4 @@
-# Mr_Hippocampus: A Ball Collecting Robot for the COGS 300 Robot Tournament
+# Mr_Hippocampus: A Ball Collecting Robot Using Machine Learning
 
 ## Problem
 For our final COGS 300 project, our task was to design a robot using machine learning to compete in a class-wide tournament. In each round, two opposing robots would compete 
