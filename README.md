@@ -75,6 +75,10 @@ Our design team worked closely with us to develop an adorable Mr_Hippocampus mod
 
 ![image](https://user-images.githubusercontent.com/70073029/186763200-95f71ae1-2af0-4cde-94cb-b2528d37463c.png)
 
+## Robot Viability
+
+While our robot was able to collect balls, it ended up collecting 4 balls and staying at base to defend using lasers, as such,
+the implementation of our robot was not completely successful. However, this was a fun experience and I learned a lot! :)
 
 ## What I Learned 
 - Project management: how to prioritize + set deadlines for a team to ensure that all deliverables were completed on time
@@ -86,4 +90,4 @@ non-technical backgrounds
 ## How Mr_Hippocampus Could Be Improved
 - Experiment with a different strategy to maximize speed because carrying 3 balls at once significantly slowed our robot down (making it more 
 vulnerable to attacks)
-- Experiment with different rewards
+- Experiment with different rewards to improve implementation
