@@ -67,7 +67,7 @@ robot first had a model to base its behaviour off. Afterwards, I trained Mr_Hipp
 Generative Adversarial Imitation Learning (GAIL), rewarding it for collecting more balls at once and punishing it for 
 dropping balls.
 
-To see the final neural network from the training, you can see **Agent.nn**
+The final neural network from the training is **Agent.nn**
 
 ## Robot Design
 
