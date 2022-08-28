@@ -75,7 +75,7 @@ Our design team worked closely with us to develop an adorable Mr_Hippocampus mod
 
 ![image](https://user-images.githubusercontent.com/70073029/186763200-95f71ae1-2af0-4cde-94cb-b2528d37463c.png)
 
-## Robot Viability
+## Robot Viability + Challenges
 
 While our robot was able to collect balls, it ended up collecting 4 balls and staying at base to defend using lasers, as such,
 the implementation of our robot was not completely successful. However, this was a fun experience and I learned a lot! :)
