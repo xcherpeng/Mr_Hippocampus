@@ -1,4 +1,4 @@
-# Mr_Hippocampus: Designing A Ball Collecting Robot Using Machine Learning
+# Mr_Hippocampus: Designing A Ball Collecting Robot in Unity
 
 ## Problem
 For our final COGS 300 project, our task was to design a robot using machine learning to compete in a class-wide tournament. In each round, two opposing robots would compete 
