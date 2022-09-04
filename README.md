@@ -10,7 +10,7 @@ prior, I took the lead of the software engineering side of the project along wit
 design (Robot body and Video).
 
 To begin the project, I coordinated with my team using Google Docs to design a strategy based on what we knew and what resources we had available to us. I
-took meeting notes and made sure to understand the vary perspectives of my teammates in order to develop our plan.
+took meeting notes and made sure to understand the varied perspectives of my teammates in order to develop our plan.
 
 ## What We Knew
 - Each round lasted 2 minutes
