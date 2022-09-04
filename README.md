@@ -33,7 +33,7 @@ Knowing our limitations, skillsets, and resources we decided to implement a stra
 
 ## Robot Performance Strategy
 
-COLLECT:
+**COLLECT**:
 
 When Mr. Hippocampus has less than the majority (5 targets) needed to win,
 it will collect the nearest targets until it does. It will return to the base
@@ -41,14 +41,14 @@ when it has at least three targets when there are no targets at the base. Once t
 at least three targets at the base, it will collect and return at least the minimum remaining balls 
 (5 - # balls at base) to get the majority. This is to reduce the number of trips it needs to make.
 
-DEFENSE:
+**DEFENSE**:
 
 When Mr. Hippocampus has at least 5 targets in its base, it will stay there and
 laser the enemy if it approaches. If it is able, it will avoid enemy lasers by
 moving whenever the enemy is directly facing it. Otherwise, it will shoot a constant
 defensive line of lasers around the base. 
 
-CRIME:
+**CRIME**:
 
 If an enemy is carrying at least one target nearby, Mr. Hippocampus will shoot it. 
 If the enemy has the majority of balls and there are no more balls on the floor, 
