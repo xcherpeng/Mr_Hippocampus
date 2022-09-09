@@ -78,7 +78,7 @@ Our design team worked closely with us to develop an adorable Mr_Hippocampus mod
 ## Robot Viability + Challenges
 
 While our robot was able to collect balls, it ended up collecting 4 balls and staying at base to defend using lasers, as such,
-the implementation of our robot was not completely successful. Zs I and the other software engineer were unfamiliar with Unity and C#, there was a learning curve in figuring out how we could implement our strategy. However, this was a fun experience and I learned a lot! :)
+the implementation of our robot was not completely successful. The other software engineer and I were unfamiliar with Unity and C# at first so there was a learning curve in figuring out how we could implement our strategy. However, this was a fun experience and I learned a lot! :)
 
 ## What I Learned 
 - Project management: how to prioritize + set deadlines for a team to ensure that all deliverables were completed on time
