@@ -61,7 +61,7 @@ Strategy implementation is in **Mr_Hippocampus.cs** and the training configurati
 
 ## Robot Training Strategy
 
-I led the training our robot. Based on what I learned in class and online, I strategized with my teammates. 
+I led the training for our robot. Based on what I learned in class and online, I strategized with my teammates. 
 I opted for training Mr_Hippocampus using Behavioural Cloning first by recording a demo with desired behaviour in Unity so that our
 robot had a model to base its behaviour off. Afterwards, I trained Mr_Hippocampus using 
 Generative Adversarial Imitation Learning (GAIL), rewarding it for collecting more balls at once and punishing it for 
